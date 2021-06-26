@@ -1,6 +1,6 @@
 # Kickstarting with Excel
 
-![kickstarter_logo](https://www.google.com/search?q=kickstarter&safe=off&sxsrf=ALeKk02Tpp_ojyoHBoAveQ-f2mzJYVp_Tw:1624743479065&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi4sq6PobbxAhUzkmoFHdpZA9QQ_AUoAXoECAEQBA&biw=1920&bih=937#imgrc=spoUUwJc-ThcrM)
+![kickstarter_logo](https://s3-eu-west-1.amazonaws.com/rankia/images/valoraciones/0025/0286/Kickstarter_en_alianza_con_Fondeadora_aterriza_en_M%C3%A9xico.jpg?1476359956)
 
 ## Overview of Project
 The purpose of this project is to showcase different scenarios to provide Kickstarter Company information on the performances of the campaigns that they have had. With a glance at the KPIs, Louise or anyone within the company can evaluate them, and make their forecasts.
