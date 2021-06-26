@@ -13,7 +13,7 @@ I think that having an international company with different projects with variou
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-![outcomes_based_goals](Resources\Theater_Outcomes_vs_Launch.png)
+![outcomes_based_goals](.Resources/Theater_Outcomes_vs_Launch.png)
 
 First, I think this chart is helpful for everyone who is trying to understand the behavior of the outcomes depending on the launch date, looking at the trends I can tell that the Theater Category has 61% of successful campaigns which is higher than the failed ones, so it is a good indicator for the company.
 
@@ -21,7 +21,7 @@ Looking at the Months of Launching, May and June have the best rates so I would 
 
 - What can you conclude about the Outcomes based on Goals?
 
-![launchdates_graph](Resources\Outcomes_vs_Goals.png).
+![launchdates_graph](.Resources/Outcomes_vs_Goals.png).
 
 Here I can say that 69% of projects are concentrated between Goals "Less than 1.000" and from "1000 to 4999", these projects have a percentage of successful projects is above 70%, these goals have the highest rates of Successful campaign, considering this information, I would highly recommend looking at the best practices to apply on the failed projects. 
 
