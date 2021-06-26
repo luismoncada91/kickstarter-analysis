@@ -13,7 +13,7 @@ I think that having an international company with different projects with variou
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-![outcomes_based_launchd](https://github.com/[luismoncada91]/[kickstarter-analysis]/blob/[main]/Resourses/Theater_Outcomes_vs_Launch.png?raw=true)
+![outcomes_based_launchd](https://github.com/luismoncada91/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 ![outcomes_based_goals](.Resources/Theater_Outcomes_vs_Launch.png)
 
 First, I think this chart is helpful for everyone who is trying to understand the behavior of the outcomes depending on the launch date, looking at the trends I can tell that the Theater Category has 61% of successful campaigns which is higher than the failed ones, so it is a good indicator for the company.
